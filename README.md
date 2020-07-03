@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on
- - easing usage of responsive images with https://github.com/nhoizey/images-responsiver and https://github.com/nhoizey/eleventy-plugin-images-responsiver
- - helping people have fun with my little puzzle game https://github.com/esviji/esviji
- - preventing headaches to developers with my VS Code extension https://github.com/nhoizey/vscode-gremlins
+🔭 I’m currently working on
+- easing usage of responsive images with [images-responsiver](https://github.com/nhoizey/images-responsiver) and [eleventy-plugin-images-responsiver](https://github.com/nhoizey/eleventy-plugin-images-responsiver)
+- helping people have fun with my little puzzle game [esviji](https://github.com/esviji/esviji)
+- preventing headaches to developers with my VS Code extension [Gremlins](https://github.com/nhoizey/vscode-gremlins)
 
 <!--
 **nhoizey/nhoizey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
