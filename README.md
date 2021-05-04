@@ -13,6 +13,6 @@ Current pet projects include:
 - 🎮 helping people **have fun** with my little puzzle game [esviji](https://github.com/esviji/esviji)
 - 🤯 **preventing headaches to developers** with my VS Code extension [Gremlins](https://github.com/nhoizey/vscode-gremlins)
 
-# Latest blog posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
