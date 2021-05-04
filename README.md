@@ -15,9 +15,9 @@ Current pet projects include:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🖋 Accessible anchor links with Markdown-it and Eleventy](https://nicolas-hoizey.com/articles/2021/02/25/accessible-anchor-links-with-markdown-it-and-eleventy/)
-- [🖋 Enhancing archives navigation, step 2](https://nicolas-hoizey.com/articles/2020/11/02/enhancing-archives-navigation-step-2/)
-- [🖋 Enhancing archives navigation, step 1](https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/)
-- [🖋 How I build my SVG sprites](https://nicolas-hoizey.com/articles/2020/10/15/how-i-build-my-svg-sprites/)
-- [🖋 Identify which Apache rewrite rules are used](https://nicolas-hoizey.com/articles/2020/05/29/identify-which-apache-rewrite-rules-are-used/)
+- [Accessible anchor links with Markdown-it and Eleventy](https://nicolas-hoizey.com/articles/2021/02/25/accessible-anchor-links-with-markdown-it-and-eleventy/)
+- [Enhancing archives navigation, step 2](https://nicolas-hoizey.com/articles/2020/11/02/enhancing-archives-navigation-step-2/)
+- [Enhancing archives navigation, step 1](https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/)
+- [How I build my SVG sprites](https://nicolas-hoizey.com/articles/2020/10/15/how-i-build-my-svg-sprites/)
+- [Identify which Apache rewrite rules are used](https://nicolas-hoizey.com/articles/2020/05/29/identify-which-apache-rewrite-rules-are-used/)
 <!-- BLOG-POST-LIST:END -->
