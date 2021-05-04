@@ -12,3 +12,7 @@ Current pet projects include:
 - 🖼 easing usage of **responsive images** with [images-responsiver](https://nhoizey.github.io/images-responsiver/), [eleventy-plugin-images-responsiver](https://nhoizey.github.io/images-responsiver/eleventy-plugin-images-responsiver/) and [jekyll-cloudinary](https://nhoizey.github.io/jekyll-cloudinary/)
 - 🎮 helping people **have fun** with my little puzzle game [esviji](https://github.com/esviji/esviji)
 - 🤯 **preventing headaches to developers** with my VS Code extension [Gremlins](https://github.com/nhoizey/vscode-gremlins)
+
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
