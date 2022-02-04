@@ -11,7 +11,7 @@ I am **located in Paris, France**, but some assignments for international client
 Current pet projects include:
 - 🖼 easing usage of **responsive images** with [images-responsiver](https://nhoizey.github.io/images-responsiver/?utm_medium=github&utm_source=personal&utm_campaign=profile), [eleventy-plugin-images-responsiver](https://nhoizey.github.io/images-responsiver/eleventy-plugin-images-responsiver/?utm_medium=github&utm_source=personal&utm_campaign=profile) and [jekyll-cloudinary](https://nhoizey.github.io/jekyll-cloudinary/?utm_medium=github&utm_source=personal&utm_campaign=profile)
 - 🎮 helping people **have fun** with my little puzzle game [esviji](https://play.esviji.com/?utm_medium=github&utm_source=personal&utm_campaign=profile)
-- 🤯 **preventing headaches to developers** with my VS Code extension [Gremlins](https://github.com/nhoizey/vscode-gremlins)
+- 🤯 **preventing headaches to developers** with my VS Code extension [Gremlins](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins&utm_medium=github&utm_source=personal&utm_campaign=profile)
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
