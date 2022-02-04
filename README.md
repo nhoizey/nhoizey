@@ -9,8 +9,8 @@ I run numerous seminars and practical training sessions, and give [talks](https:
 I am **located in Paris, France**, but some assignments for international clients take me to other countries and even other continents.
 
 Current pet projects include:
-- 🖼 easing usage of **responsive images** with [images-responsiver](https://nhoizey.github.io/images-responsiver/), [eleventy-plugin-images-responsiver](https://nhoizey.github.io/images-responsiver/eleventy-plugin-images-responsiver/) and [jekyll-cloudinary](https://nhoizey.github.io/jekyll-cloudinary/)
-- 🎮 helping people **have fun** with my little puzzle game [esviji](https://github.com/esviji/esviji)
+- 🖼 easing usage of **responsive images** with [images-responsiver](https://nhoizey.github.io/images-responsiver/?utm_medium=github&utm_source=personal&utm_campaign=profile), [eleventy-plugin-images-responsiver](https://nhoizey.github.io/images-responsiver/eleventy-plugin-images-responsiver/?utm_medium=github&utm_source=personal&utm_campaign=profile) and [jekyll-cloudinary](https://nhoizey.github.io/jekyll-cloudinary/?utm_medium=github&utm_source=personal&utm_campaign=profile)
+- 🎮 helping people **have fun** with my little puzzle game [esviji](https://play.esviji.com/?utm_medium=github&utm_source=personal&utm_campaign=profile)
 - 🤯 **preventing headaches to developers** with my VS Code extension [Gremlins](https://github.com/nhoizey/vscode-gremlins)
 
 ### Latest blog posts
