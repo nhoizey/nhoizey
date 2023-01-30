@@ -8,7 +8,7 @@ I am a **co-founder and Chief Innovation Officer at [Clever Age](https://www.cle
 
 🇫🇷 I am **located in Paris, France**, but some assignments for international clients take me to other countries and even other continents.
 
-📸 I'm also a self-taught amateur photographer. I love to travel to discover new horizons and people, shooting both nature and urban landscapes, and many other topics. And I love to share this on [my own photography site](https://nicolas-hoizey.photo/).
+📸 I'm also a self-taught amateur photographer. I love to travel to discover new horizons and people, shooting both nature and urban landscapes, and many other topics. And I love to share this on [my own photography site](https://nicolas-hoizey.photo).
 
 Current pet projects include:
 - 🖼 easing usage of **responsive images** with [images-responsiver](https://nhoizey.github.io/images-responsiver/), [eleventy-plugin-images-responsiver](https://nhoizey.github.io/images-responsiver/eleventy-plugin-images-responsiver/) and [jekyll-cloudinary](https://nhoizey.github.io/jekyll-cloudinary/)
