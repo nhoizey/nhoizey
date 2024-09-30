@@ -17,9 +17,9 @@ Current pet projects include:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Accessible anchor links with Markdown-it and Eleventy](https://nicolas-hoizey.com/articles/2021/02/25/accessible-anchor-links-with-markdown-it-and-eleventy/)
-- [Enhancing archives navigation, step 2](https://nicolas-hoizey.com/articles/2020/11/02/enhancing-archives-navigation-step-2/)
-- [Enhancing archives navigation, step 1](https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/)
-- [How I build my SVG sprites](https://nicolas-hoizey.com/articles/2020/10/15/how-i-build-my-svg-sprites/)
-- [Identify which Apache rewrite rules are used](https://nicolas-hoizey.com/articles/2020/05/29/identify-which-apache-rewrite-rules-are-used/)
+- [Ways to use multiple displays from Apple devices](https://nicolas-hoizey.com/articles/2024/06/13/ways-to-use-multiple-displays-from-apple-devices/)
+- [HTML and CSS based View Transitions are coming](https://nicolas-hoizey.com/articles/2023/05/19/html-and-css-based-view-transitions-are-coming/)
+- [Running CSS animations only if both the device and the user allow it](https://nicolas-hoizey.com/articles/2023/04/07/running-css-animations-only-if-both-the-device-and-the-user-allow-it/)
+- [How I built my own excerpt for Markdown content in Eleventy](https://nicolas-hoizey.com/articles/2023/03/31/how-i-built-my-own-excerpt-for-markdown-content-in-eleventy/)
+- [A bookmarklet to create a new link content Markdown on GitHub](https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/)
 <!-- BLOG-POST-LIST:END -->
